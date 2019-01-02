@@ -76,7 +76,7 @@
     // Keywordlerin bulunduğu array tanımlanır.
     // Array window değişken tipinde tanımlanır ki heryerde kullanılabilsin.
     window.keywords = [
-        ["selam", "merhaba", "mrb","a.s.","as","a.s"],
+        ["selam", "merhaba", "mrb","a.s.","as","a.s","slm","selamın aleyküm"],
         ["naber", "nbr", "nasılsın", "napıyosun", "nası gidiyo", "nasıl gidiyor"],
         ["hangi takımlısın", "takım", "hangi takımı tutuyosun", "beşiktaş", "fenerbahçe", "fener","cimbombom","gs","fb","galatasaray","gassaray"],
         ["beyaz", "siyah", "sari", "kirmizi", "tribün", "tribun", "maç"],
